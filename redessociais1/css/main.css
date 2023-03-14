@@ -1,1 +1,33 @@
-/*# sourceMappingURL=main.css.map */
+* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+* body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  margin: 40px;
+}
+body .foto {
+  height: 150px;
+  border-radius: 50%;
+}
+body h1 {
+  padding-bottom: 30px;
+}
+body h2 {
+  padding-bottom: 20px;
+}
+body p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+body ul {
+  padding-bottom: 30px;
+}
+body ul li {
+  padding: 5px 0 0 5px;
+  list-style: none;
+}/*# sourceMappingURL=main.css.map */
