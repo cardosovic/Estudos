@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  text-align: center;
+  font-size: 20pt;
+  background-color: rgb(29, 26, 26);
+}
+
+h1 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+div {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-template-rows: 100px 100px;
+}/*# sourceMappingURL=main.css.map */
